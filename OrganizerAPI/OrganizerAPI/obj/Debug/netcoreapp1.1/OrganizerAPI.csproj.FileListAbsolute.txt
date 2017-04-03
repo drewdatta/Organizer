@@ -1,0 +1,9 @@
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\bin\Debug\netcoreapp1.1\OrganizerAPI.deps.json
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\bin\Debug\netcoreapp1.1\OrganizerAPI.runtimeconfig.json
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\bin\Debug\netcoreapp1.1\OrganizerAPI.runtimeconfig.dev.json
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\bin\Debug\netcoreapp1.1\OrganizerAPI.dll
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\bin\Debug\netcoreapp1.1\OrganizerAPI.pdb
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\obj\Debug\netcoreapp1.1\OrganizerAPI.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\obj\Debug\netcoreapp1.1\OrganizerAPI.AssemblyInfo.cs
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\obj\Debug\netcoreapp1.1\OrganizerAPI.dll
+C:\Users\Aaron Mylius\Documents\GitHub\Organizer\OrganizerAPI\OrganizerAPI\obj\Debug\netcoreapp1.1\OrganizerAPI.pdb
