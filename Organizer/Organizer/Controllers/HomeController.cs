@@ -15,7 +15,8 @@ namespace Organizer.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "About Organizer.";
+            string message = "About Organizer."; //client.callapi()
+            ViewData["Message"] = message;
 
             return View();
         }
