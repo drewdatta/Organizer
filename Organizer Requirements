@@ -1,10 +1,3 @@
-# Organizer
-Organizer web application
-
-Organizer is a web application that allows you to create lists and organize them as you see fit using rules you create.
-
-** CHECK OUT OUR TRELLO BOARD OVER AT https://trello.com/b/tyCl8Pcm/organizer **
-
 Organizer Requirements
 ----------------------
 
@@ -30,7 +23,3 @@ Examples of rulesets would be:
 	-Etc...
 
 The application should allow users to sign up, log in, and see lists that the user has previously saved with the rulesets that the user has saved. 
-
-----------------------
-
-Please check the Requirements document for the most updated requirements.
